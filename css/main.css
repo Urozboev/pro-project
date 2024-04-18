@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    margin: 0 auto;
+}
+
+.nav{
+    gap: 40px;
+}
+.navbar-nav{
+    margin: 0 auto;
+}
+.navbar-nav{
+    gap: 40px;
+}
+.ul-li-a{
+    color:#150101;
+    text-decoration: none;
+}
+
+.ul-li-a:hover{
+    color:  #D64374;
+}
+
+.color{
+    background: #F8EDF0;     
+}
+
+.boy-now:hover{
+    width: 165px;
+    height: 49px;
+    top: 25px;
+    left: 1205px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: #D23166;
+}
+.text-tetle{
+    width: 665px;
+    height: 364px;
+    top: 285px;
+    left: 254px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;  
+    justify-content: space-between;
+}
+
+.image_2{
+    width:500px;
+    height: px;
+    top: 126px;
+    left: 690px;
+    gap: 0px;
+    opacity: 0px;  
+    margin-left: px;  
+}
+
+.text-tetle-h6{
+    width: 200px;
+    height: 16px;
+    top: 285px;
+    left: 254px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.1em;
+    text-align: left;     
+}
+.text-tetle-h1{
+    width: 665px;
+    height: 130px;
+    top: 307px;
+    left: 254px;
+    gap: 0px;
+    opacity: 0.9px;
+    font-family: Fredoka One;
+    font-size: 57.33px;
+    font-weight: 400;
+    line-height: 69.08px;
+    text-align: left;        
+}
+
+.section-image{
+    margin-top: 200px;
+}
+
+.text-tetle-p{
+    width: 523px;
+    height: 78px;
+    top: 472px;
+    left: 254px;
+    gap: 0px;
+    opacity: 0.6px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;       
+}
+
+.imagetel-img{
+    width:300px;
+}
+
+.fa-cart-shopping{
+    justify-content: space-between;
+}
+
+.imagetel{
+    width: 269px;
+    height: 430px;
+    top: 4386px;
+    left: 224px;
+    gap: 0px;
+    opacity: 0px;
+    border: 2px solid rgb(85, 128, 145);
+    border-radius:15px;
+    text-align: center;
+    box-shadow: 2px ;
+    
+}
+.div-span{
+    margin-right:70%;
+}
+
+.div_p1{
+    text-align: center;
+} 
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.imagetel{
+    width: 50%;
+}
+.tetle_text{
+    width: 50%;
+    margin-left:60%;
+}
