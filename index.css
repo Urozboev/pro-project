@@ -1,0 +1,267 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.shop {}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.container-boxes {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 62px 0;
+
+
+
+}
+
+.container-box {
+    width: 280px;
+    height: 230px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #00000008;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.container-box:hover {
+    box-shadow: 20px 20px 50px 0px #0000001A;
+
+}
+
+.box-img {
+    padding: 20px 0;
+}
+
+.Free {
+    padding: 10px 0;
+}
+
+
+/*  Our Product start start */
+
+.Our-Product {}
+
+.Our_Product-nav {
+    text-align: center;
+}
+
+.bosh-text {
+    padding: 90px 0 64px 0;
+    font-family: Hind Madurai;
+    font-size: 44.2px;
+    font-weight: 600;
+    line-height: 61px;
+
+
+}
+
+.bosh-text3 {
+    padding: 90px 0 0 0;
+    font-family: Hind Madurai;
+    font-size: 44.2px;
+    font-weight: 600;
+    line-height: 61px;
+
+
+}
+.bosh-text31 {
+   
+    font-family: Hind Madurai;
+    font-size: 44.2px;
+    font-weight: 600;
+    line-height: 61px;
+
+
+}
+
+.Product-ul {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    gap: 40px;
+}
+
+.Product-A {
+    list-style: none;
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.09px;
+    text-align: left;
+    color: #000000;
+
+}
+
+.Product-A:hover {
+
+    font-weight: 600;
+
+
+}
+
+.Cayenne {}
+
+.Cayenne-box {
+    display: flex;
+    align-items: center;
+    gap: 88px;
+}
+
+.text-k {
+    row-gap: 12px;
+}
+.text-k1{
+    text-align: end;
+    row-gap: 12px;
+    gap: 100px;
+   
+}
+.text-h40 {
+    font-family: Hind Madurai;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 35.88px;
+    text-align: left;
+
+}
+
+.text-h402{
+    font-family: Hind Madurai;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 35.88px;
+    text-align: end;
+}
+
+.text-pppp {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+
+}
+.text-pppp2{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: end;
+}
+
+.section-texttt {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+.section-texttt2{
+    display: flex;
+    text-align: end;
+    gap: 7px;
+}
+.textt-h5 {
+    font-family: Hind Madurai;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 35.88px;
+    text-align: left;
+
+}
+.textt-h52{
+    font-family: Hind Madurai;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 35.88px;
+    text-align: end;
+}
+
+.textttt-h6 {
+    font-family: Hind Madurai;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27.6px;
+    text-align: end;
+
+}
+
+.textttt-h62{
+    font-family: Hind Madurai;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27.6px;
+    text-align: end;
+}
+
+.section-texttt2{
+  text-align: end;
+}
+
+.btnnnn {
+    width: 165px;
+    height: 49px;
+    top: 2861px;
+    left: 554px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    background: #D64374;
+    color: #fff;
+    border: none;
+
+}
+
+.text0 {
+    display: flex;
+
+    gap: 20px;
+    align-items: center;
+}
+.dflex{
+    padding: 15px 0 0 0;
+}
+.text-pppp{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+padding: 10px 0 ;
+}
+.row{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.text-pppp23{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    padding: 10px 0 ;
+    max-width: 450px;
+}
+
+.Cayenne-box1{
+    background: #F8EDF0;
+
+}
+
+
+/*  Our Product start end */
